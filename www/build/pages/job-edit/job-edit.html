@@ -1,0 +1,29 @@
+
+<ion-header>
+
+  <ion-navbar primary>
+    <ion-title>jobEdit</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding class="job-edit">
+ <ion-row>
+    <ion-col width-40>
+      <button block (click)="saveTodo(updatedTodo.value)">
+        Save
+      </button>
+    </ion-col>
+    <ion-col width-40>
+      <button light block nav-pop>
+        Cancel
+      </button>
+    </ion-col>
+    <ion-col width-20>
+      <button danger block (click)="deleteTodo()">
+        <ion-icon name="trash"></ion-icon>
+      </button>
+    </ion-col>
+  </ion-row>
+</ion-content>

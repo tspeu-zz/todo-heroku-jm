@@ -1,0 +1,59 @@
+[
+	{
+	"jobid": "job-1",
+	"manager": "Laurie Chalmers",
+	"brand": "Apple",
+	"type": "CAD Drawings",
+	"client": "Apple",
+	"status": "Open",
+	"store" : "England"
+	}, {
+	"jobid": "job-2",
+	"manager": "Pm-1",
+	"brand": "IBM",
+	"type": "Site Survey",
+	"client": "IBM",
+	"status": "Closed",
+	"store" : "Ireland"
+	}, {
+	"jobid": "job-3",
+	"manager": "Laurie Chalmers",
+	"brand": "Google",
+	"type": "Maintainence",
+	"client": "Google",
+	"status": "Bid",
+	"store" : "Germany"
+	}, {
+	"jobid": "job-4",
+	"manager": "Laurie Chalmers",
+	"brand": "Intel",
+	"type": "Site Survey",
+	"client": "Intel",
+	"status": "Bid",
+	"store" : "France"
+	}, {
+	"jobid": "job-5",
+	"manager": "Pm-2",
+	"brand": "Dell",
+	"type": "Other",
+	"client": "Dell",
+	"status": "Closed",
+	"store" : "Ireland"
+	}, {
+	"jobid": "job-6",
+	"manager": "Pm-3",
+	"brand": "Microsoft",
+	"type": "Installation",
+	"client": "Microsoft",
+	"status": "Bid",
+	"store" : "England"
+	}, {
+	"jobid": "job-7",
+	"manager": "Pm-4",
+	"brand": "Amazon",
+	"type": "Maintainence",
+	"client": "Amazon",
+	"status": "Open",
+	"store" : "Ireland"
+	}
+]
